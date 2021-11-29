@@ -1,6 +1,9 @@
 .fundo.nav{
-	background-color: #7FFFD4
+	background-color: #000000
 }
 .navbar-toggler-icon{
-	background-color: #11ffb0
+	background-color: #000000
+}
+.a.nav-link{
+	background-color: rgba(104, 253, 253, 0.568);
 }
