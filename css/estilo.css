@@ -8,7 +8,7 @@
   color: #fff;
 }
 .fundo{
-  background-color: #011140; */
+  background-color: #011140;
 }
 .titulo{
   color: #0528F2;
@@ -17,5 +17,11 @@
 .img1{
   width: 90%;
   border-radius: 25%;
+}
+footer {
+  background-color: #010c2e;
+  padding: 35px;
+  text-align: center;
+  color: white;
 }
 
