@@ -1,0 +1,30 @@
+.fundo.nav{
+	background-color: #011140;
+}
+.nav-link{
+	background-color: #011140;
+}
+.text{
+  color: #fff;
+}
+.fundo{
+  background-color: #011140;
+}
+.titulo{
+  color: #0528F2;
+  text-align: center;
+}
+.img1{
+  width: 90%;
+  border-radius: 25%;
+}
+footer {
+  background-color: #010c2e;
+  padding: 35px;
+  text-align: center;
+  color: white;
+}
+.titulo2{
+  color: #98a7fa;
+  text-align: center;
+}
